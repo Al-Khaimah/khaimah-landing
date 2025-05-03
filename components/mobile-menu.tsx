@@ -56,7 +56,7 @@ export function MobileMenu() {
             className="text-xl font-ibm-plex hover:text-[#C13144] transition-colors"
             onClick={handleLinkClick}
           >
-            اتصل بنا
+            تواصل معنا
           </Link>
           <Button className="bg-[#C13144] hover:bg-[#a52a3a] text-white mt-4" onClick={handleLinkClick}>
             حمل التطبيق

@@ -32,7 +32,7 @@ export default function Home() {
               فريق العمل
             </Link>
             <Link href="#contact" className="hover:text-[#C13144] transition-colors">
-            تواصل معنا
+             تواصل معنا
             </Link>
           </nav>
           <div className="flex items-center gap-2">
@@ -495,7 +495,7 @@ export default function Home() {
                   </ul>
                 </div>
                 <div>
-                  <h3 className="text-lg font-bold font-ibm-plex mb-4">اتصل بنا</h3>
+                  <h3 className="text-lg font-bold font-ibm-plex mb-4">تواصل معنا</h3>
                   <p className="text-gray-400">info@alkhaimah.app</p>
                 </div>
               </div>
