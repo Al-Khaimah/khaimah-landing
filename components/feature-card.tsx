@@ -24,7 +24,7 @@ export function FeatureCard({ icon: Icon, title, description, className, iconCla
         >
           <Icon className="h-8 w-8 text-white" />
         </div>
-        <h3 className="text-xl font-bold font-ibm-plex mb-4">{title}</h3>
+        <h3 className="text-xl font-bold font-ibm-plex mb-4 text-white">{title}</h3>
         <p className="text-gray-300">{description}</p>
       </CardContent>
     </Card>
