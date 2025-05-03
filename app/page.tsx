@@ -32,7 +32,7 @@ export default function Home() {
               فريق العمل
             </Link>
             <Link href="#contact" className="hover:text-[#C13144] transition-colors">
-              اتصل بنا
+            تواصل معنا
             </Link>
           </nav>
           <div className="flex items-center gap-2">
